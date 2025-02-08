@@ -1,0 +1,15 @@
+{
+  "name": "all_functions",
+  "version": "1.0.0",
+  "main": "all_functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@nerioalfonso/pok-cert-wrapper": "^1.0.0"
+  }
+}
