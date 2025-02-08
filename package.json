@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NeroAlfonso/pok-cert-wrapper.git"
+  },
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
